@@ -1,0 +1,19 @@
+李明 · 2027 届本科生
+电话：13800000000 ｜ 邮箱：liming@example.com
+
+求职意向：AI 应用开发实习生
+
+教育背景
+示例大学 · 计算机科学与技术（本科）  2023.09 – 2027.06
+
+项目经历
+文档问答系统（个人项目）｜Python / Chroma / bge
+· 实现 PDF 解析、切分、向量化与检索，支持带引用的问答，并自建 35 题评测集。
+
+本地 AI 工作站（个人项目）｜Python / Ollama / ComfyUI
+· 搭建本地大模型应用，实现工具调用与联网检索。
+
+专业技能
+· 编程语言：Python、Java
+· 工具：Git、Linux、Docker
+· 大模型：Prompt 工程、RAG、Function Calling、向量数据库 Chroma

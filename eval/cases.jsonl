@@ -1,0 +1,2 @@
+{"id": "c1", "resume": "samples/resume_sample_strong.txt", "jd": "samples/jd_ai_intern.txt", "expect_missing_max": 1, "expect_min_coverage": 0.75}
+{"id": "c2", "resume": "samples/resume_sample_weak.txt", "jd": "samples/jd_ai_intern.txt", "expect_missing_min": 2, "expect_max_coverage": 0.4}
